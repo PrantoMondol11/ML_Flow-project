@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/b2ce097f6a984489a0bf9c85294193f3/artifacts
+end_time: 1764613281294
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b2ce097f6a984489a0bf9c85294193f3
+run_name: dazzling-lark-800
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764613281193
+status: 3
+tags: []
+user_id: pranto

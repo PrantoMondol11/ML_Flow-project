@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/cf3156abb675411d86d00a2f885e6447/artifacts
+end_time: 1764610858414
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf3156abb675411d86d00a2f885e6447
+run_name: dashing-skink-667
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764610858340
+status: 3
+tags: []
+user_id: pranto

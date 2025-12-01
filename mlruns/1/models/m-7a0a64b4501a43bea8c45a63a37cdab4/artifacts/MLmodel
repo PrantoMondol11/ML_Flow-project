@@ -1,0 +1,22 @@
+artifact_path: file:C:/Users/pranto/Desktop/project/ML_Flow-project/mlruns/1/models/m-7a0a64b4501a43bea8c45a63a37cdab4/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.1
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.6.0
+model_id: m-7a0a64b4501a43bea8c45a63a37cdab4
+model_size_bytes: 23281
+model_uuid: m-7a0a64b4501a43bea8c45a63a37cdab4
+prompts: null
+run_id: 2e847497afd14d109c2a5563d1a316cf
+utc_time_created: '2025-12-01 17:35:53.789694'
